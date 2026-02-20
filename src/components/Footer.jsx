@@ -71,11 +71,12 @@ const Footer = () => {
       {/* Bottom bar */}
       <div className="sage-line mb-6" />
       <p className="text-center text-warm-muted text-xs tracking-widest">
-        © {new Date().getFullYear()} CBMS. All rights reserved.
+        © {new Date().getFullYear()} Sofzenix IT Solutions LLP
       </p>
     </footer>
   );
 };
 
 export default Footer;
+
 
