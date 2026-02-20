@@ -61,7 +61,7 @@ const Footer = () => {
           <h3 className="label-tag mb-5">Contact</h3>
           <ul className="space-y-3 text-warm-muted text-sm">
             <li>studio@cbsm.com</li>
-            <li>+91 98765 43210</li>
+            <li>+91 79815 52478</li>
             <li>Hyderabad, India</li>
             <li className="text-sage/80">Available Worldwide</li>
           </ul>
@@ -78,3 +78,4 @@ const Footer = () => {
 };
 
 export default Footer;
+
